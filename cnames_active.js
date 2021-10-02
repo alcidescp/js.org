@@ -125,6 +125,7 @@ var cnames_active = {
   "aksara": "sajenid.github.io/aksara.js",
   "alasql": "alasql.github.io", // noCF? (don´t add this in a new PR)
   "alastor": "aidenybai.github.io/alastor",
+  "alcidescp": "https://alcidescp.github.io/Portafolio",
   "ale": "alecefe.github.io",
   "alertism": "assassinaguilar.github.io/Alertism",
   "alex": "alecs297.github.io",
@@ -635,7 +636,6 @@ var cnames_active = {
   "dawood": "mohamedawood.github.io/Dawood",
   "day": "dayjs.github.io/website",
   "daybreak": "mokunshao.github.io/daybreak",
-  "discord-gamecord": "gamecord-docs.vercel.app",
   "daysfromnow": "pedrokost.github.io/daysfromnow", // noCF? (don´t add this in a new PR)
   "dbar": "dbarjs.github.io",
   "dbash": "oocydo.github.io/dbash",
@@ -2296,7 +2296,6 @@ var cnames_active = {
   "romanager": "imacodr.github.io/romanager",
   "roger": "klopango.github.io/js-org",
   "roghib": "hosting.gitbook.com",
-  "romcal": "romcal.github.io",
   "room": "atercerosb.github.io/roomHomepage",
   "roosterapp": "roembol2000.github.io/roosterapp-mobile",
   "rose": "discord-rose.github.io/discord-rose",
